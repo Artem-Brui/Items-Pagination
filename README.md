@@ -40,9 +40,7 @@ A modern React application for displaying and managing items with customizable p
 
 - React 19
 - TypeScript
-- Vite
 - Bootstrap 5
-- ESLint
 - GitHub Pages
 
 ## 📦 Project Structure
