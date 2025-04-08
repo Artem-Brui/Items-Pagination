@@ -118,7 +118,3 @@ The application can be deployed to GitHub Pages. To deploy manually:
 ```bash
 npm run deploy
 ```
-
-## License
-
-MIT
